@@ -21,6 +21,8 @@ bangumi.tv 相关的坑
 
 ### 用户脚本
 
+- [一个很多用户脚本的repo](https://github.com/bangumi/scripts)
+
 ### API / 库
 
 为避免被广告姬利用, 建议偷偷交流
@@ -35,6 +37,7 @@ bangumi.tv 相关的坑
 - [Chrome主题](http://bangumi.tv/group/topic/1303)
 - [Firefox主题](http://bangumi.tv/group/topic/8416)
 - [Sogou Theme: 布莱克·樱·Bangumi娘](http://bangumi.tv/group/topic/7254)
+- 
 
 ### 挖坑者
 
