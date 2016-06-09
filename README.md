@@ -37,7 +37,6 @@ bangumi.tv 相关的坑
 - [Chrome主题](http://bangumi.tv/group/topic/1303)
 - [Firefox主题](http://bangumi.tv/group/topic/8416)
 - [Sogou Theme: 布莱克·樱·Bangumi娘](http://bangumi.tv/group/topic/7254)
-- 
 
 ### 挖坑者
 
