@@ -57,10 +57,11 @@ bangumi.tv 相关的坑
 
 - [Google custom search](https://cse.google.com/cse/home?cx=008561732579436191137:pumvqkbpt6w) / [bgm帖子](http://bangumi.tv/group/topic/6432)
 - [同步率匹配](http://bangumi.tv/group/topic/43737) / [代码](https://github.com/wattlebird/Chi)
-- [rank.bgm38.tk](http://bangumi.tv/group/topic/36036) 
+- [rank.bgm38.tk](http://bangumi.tv/group/topic/36036)
 
 ### 其他
 
+- [一个看番用的插件](http://bangumi.tv/group/topic/22241)
 - [Chrome主题](http://bangumi.tv/group/topic/1303)
 - [Firefox主题](http://bangumi.tv/group/topic/8416)
 - [Sogou Theme: 布莱克·樱·Bangumi娘](http://bangumi.tv/group/topic/7254)
