@@ -31,6 +31,7 @@ bangumi.tv 相关的坑
 
 - [Google custom search](https://cse.google.com/cse/home?cx=008561732579436191137:pumvqkbpt6w) / [bgm帖子](http://bangumi.tv/group/topic/6432)
 - [同步率匹配](http://bangumi.tv/group/topic/43737) / [代码](https://github.com/wattlebird/Chi)
+- [rank.bgm38.tk](http://bangumi.tv/group/topic/36036) 
 
 ### 其他
 
