@@ -22,6 +22,32 @@ bangumi.tv 相关的坑
 ### 用户脚本
 
 - [一个很多用户脚本的repo](https://github.com/bangumi/scripts)
+    - [关联条目批量编辑 BRRS by binota](https://github.com/bangumi/scripts/tree/master/binota#关联条目批量编辑-brrs)
+    - [用户页统计图 BHC by binota](https://github.com/bangumi/scripts/tree/master/binota#用户页统计图-bhc)
+    - [历史条目对比 BHD by binota](https://github.com/bangumi/scripts/tree/master/binota#历史条目对比-bhd)
+    - [章节页显示中文名称 by binota](https://github.com/bangumi/scripts/tree/master/binota#章节页显示中文名称)
+    - [条目ISBN日本亚马逊链接 BIAL by binota](https://github.com/bangumi/scripts/tree/master/binota#条目isbn日本亚马逊链接-bial)
+    - [人物条目 Twitter 链接 by binota](https://github.com/bangumi/scripts/tree/master/binota#人物条目-twitter-链接)
+    - [回帖增强 BRE by binota](https://github.com/bangumi/scripts/tree/master/binota#回帖增强-bre)
+    - [拖动排序条目关联 BDSR by binota](https://github.com/bangumi/scripts/tree/master/binota#拖动排序条目关联-bdsr)
+    - [目录批量编辑 BIBE by binota](https://github.com/bangumi/scripts/tree/master/binota#目录批量编辑-bibe)
+    - [自动替换域名 BLDF by binota](https://github.com/bangumi/scripts/tree/master/binota#自动替换域名-bldf)
+    - [防剧透 BAN by binota](https://github.com/bangumi/scripts/tree/master/binota#防剧透-ban)
+    - [突破首页格子50上限 by chaucerling](https://github.com/bangumi/scripts/tree/master/chaucerling#突破首页格子50上限)
+    - [资源辅助搜索 by a_little](https://github.com/bangumi/scripts/tree/master/a_little#资源辅助搜索)
+    - [辅助创建黄油条目 by a_little](https://github.com/bangumi/scripts/tree/master/a_little#辅助创建黄油条目)
+    - [域名重定向 by a_little](https://github.com/bangumi/scripts/tree/master/a_little#域名重定向)
+    - [为首页格子添加下番链接 by sinker](https://github.com/bangumi/scripts/tree/master/sinker#为首页格子添加下番链接)
+    - [过滤 Horrible Subs 中已看番组 + 发送磁链到 aria2 的按钮 by sinker](https://github.com/bangumi/scripts/tree/master/sinker#过滤-horrible-subs-中已看番组--发送磁链到-aria2-的按钮)
+    - [国内放送站点链接 by imorz](https://github.com/bangumi/scripts/tree/master/imorz#国内放送站点链接)
+    - [首页条目名中文化 by upsuper](https://github.com/bangumi/scripts/tree/master/upsuper#首页条目名中文化)
+    - [目录管理增强 by upsuper](https://github.com/bangumi/scripts/tree/master/upsuper#目录管理增强)
+    - [标签批量管理 by upsuper](https://github.com/bangumi/scripts/tree/master/upsuper#标签批量管理)
+    - [讨论增强 by upsuper](https://github.com/bangumi/scripts/tree/master/upsuper#讨论增强)
+    - [任意状态启用进度管理 by upsuper](https://github.com/bangumi/scripts/tree/master/upsuper#任意状态启用进度管理)
+    - [Bilibili 放送标志 by upsuper](https://github.com/bangumi/scripts/tree/master/upsuper#bilibili-放送标志)
+    - [小组坟贴标记 by upsuper](https://github.com/bangumi/scripts/tree/master/upsuper#小组坟贴标记)
+    - [侧栏 Dollars by upsuper](https://github.com/bangumi/scripts/tree/master/upsuper#侧栏-dollars)
 
 ### API / 库
 
