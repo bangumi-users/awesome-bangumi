@@ -49,6 +49,7 @@ bangumi.tv 相关的坑
     - [Bilibili 放送标志 by upsuper](https://github.com/bangumi/scripts/tree/master/upsuper#bilibili-放送标志)
     - [小组坟贴标记 by upsuper](https://github.com/bangumi/scripts/tree/master/upsuper#小组坟贴标记)
     - [侧栏 Dollars by upsuper](https://github.com/bangumi/scripts/tree/master/upsuper#侧栏-dollars)
+- [用颜色标注ep的讨论人气](http://bangumi.tv/group/topic/340530)
 
 ### API / 库
 
