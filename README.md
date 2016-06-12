@@ -13,6 +13,7 @@ bangumi.tv 相关的坑
 | 番组计划+ | [bgm帖子](http://bangumi.tv/group/topic/32239) / [AppStore](https://itunes.apple.com/cn/app/fan-zu-ji-hua+/id878016314?mt=8) / [代码](https://github.com/billgateshxk/bangumi) | iOS / ObjC
 | Bangumi M | [bgm帖子](http://bangumi.tv/group/topic/311716) / [AppStore](https://itunes.apple.com/cn/app/bangumi-m/id1029813683?l=en&mt=8) / [代码](https://github.com/MainasuK/Bangumi-M) | iOS / Swift
 | 三八子 | [bgm小组](http://bangumi.tv/group/yaba) | Android
+| iBangumi for iOS | [bgm帖子](http://bangumi.tv/group/topic/340523) | iOS
 | onAir(官方) | [bgm下载](http://bangumi.tv/onair) | AdobeAir版, win/mac/linux皆可用
 | wp7(官方) | [MSFT store](https://www.microsoft.com/en-us/store/apps/bangumi-%e7%95%aa%e7%b5%84%e8%a8%88%e5%8a%83/9nblggh08w6q) |
 | in touch(官方) | [bgm帖子](http://bangumi.tv/group/topic/8635) |
