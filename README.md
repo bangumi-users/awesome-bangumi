@@ -50,6 +50,7 @@ bangumi.tv 相关的坑
     - [小组坟贴标记 by upsuper](https://github.com/bangumi/scripts/tree/master/upsuper#小组坟贴标记)
     - [侧栏 Dollars by upsuper](https://github.com/bangumi/scripts/tree/master/upsuper#侧栏-dollars)
 - [用颜色标注ep的讨论人气](http://bangumi.tv/group/topic/340530)
+- [bt search for bangumi](http://bangumi.tv/group/topic/311291) / [github](https://github.com/22earth/gm_scripts)
 
 ### API / 库
 
