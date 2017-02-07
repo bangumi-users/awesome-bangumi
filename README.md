@@ -9,6 +9,8 @@ bangumi.tv 相关的坑
 | **名字** | **链接(s)** | **介绍**
 | -------- | ----------- | --------
 | Bgm38  | [bgm帖子](http://bangumi.tv/group/topic/341141)  / [代码](https://github.com/zubinxiong/Bgm38) | Android
+| BangumiTV  | [bgm帖子](http://bangumi.tv/group/topic/342142) | Android
+| (名字不知的app) | [bgm帖子](http://bangumi.tv/group/topic/342131) | Android
 | Bangumi S  | [bgm帖子](http://bangumi.tv/group/topic/311253)  / [G Play](https://play.google.com/store/apps/details?id=io.github.scarletsky.bangumi) / [代码](https://github.com/scarletsky/Bangumi-Android) | Android. MD风. 
 | Bgmcli|  [代码](https://github.com/glennq/bgmcli)  | CLI Python程序.
 | Bangumi番组计划 for Android（暂）| [bgm小组](http://bangumi.tv/group/bgm_android) | Android
