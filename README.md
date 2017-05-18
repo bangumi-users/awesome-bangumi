@@ -22,6 +22,7 @@ bangumi.tv 相关的坑
 | wp7(官方) | [MSFT store](https://www.microsoft.com/en-us/store/apps/bangumi-%e7%95%aa%e7%b5%84%e8%a8%88%e5%8a%83/9nblggh08w6q) |
 | in touch(官方) | [bgm帖子](http://bangumi.tv/group/topic/8635) |
 | Bangumi Mobile (官方) | [bgm帖子](http://bangumi.tv/group/topic/5155) / [访问地址](http://bangumi.tv/m)
+| Ushio | [bgm帖子](http://bangumi.tv/group/topic/342887) / [代码](https://github.com/pye52/Ushio)
 
 
 ### 用户脚本
