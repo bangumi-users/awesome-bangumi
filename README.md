@@ -27,8 +27,7 @@ bangumi.tv 相关的坑
 
 ### 用户脚本
 
-- [一个很多用户脚本的repo](https://github.com/bangumi/scripts)
-<!--bangumi/scripts START-->
+- [一个很多用户脚本的repo](https://github.com/bangumi/scripts): <!--bangumi/scripts START-->
     - [a_little / 动画评分对比](https://github.com/bangumi/scripts/tree/master/a_little#动画评分对比)
     - [a_little / 图片模糊打码处理](https://github.com/bangumi/scripts/tree/master/a_little#图片模糊打码处理)
     - [a_little / 域名重定向](https://github.com/bangumi/scripts/tree/master/a_little#域名重定向)

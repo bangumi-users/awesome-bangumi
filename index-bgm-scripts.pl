@@ -36,7 +36,7 @@ my $readme;
     for (@old_lines) {
         my $in_script_list = /bangumi\/scripts START/ .. /bangumi\/scripts END/;
         if ($in_script_list and /bangumi\/scripts START/) {
-            print $readme "<!--bangumi/scripts START-->\n";
+            print $readme "- [一个很多用户脚本的repo](https://github.com/bangumi/scripts): <!--bangumi/scripts START-->\n";
             for (@new_script_list) { print $readme "    $_\n"; }
             print $readme "<!--bangumi/scripts END-->\n";
         } elsif (!$in_script_list) {
