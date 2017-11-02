@@ -71,7 +71,9 @@ bangumi.tv 相关的坑
     - [upsuper / 首页条目名中文化](https://github.com/bangumi/scripts/tree/master/upsuper#首页条目名中文化)
     - [yonjar / bangumi收藏列表显示Rank](https://github.com/bangumi/scripts/tree/master/yonjar#bangumi收藏列表显示rank)
     - [yonjar / bangumi评论统计](https://github.com/bangumi/scripts/tree/master/yonjar#bangumi评论统计)
+    - [yonjar / bgm角色数目统计](https://github.com/bangumi/scripts/tree/master/yonjar#bgm角色数目统计)
     - [yonjar / 好友动态&全站动态切换](https://github.com/bangumi/scripts/tree/master/yonjar#好友动态&全站动态切换)
+    - [yonjar / 用户详情爬取](https://github.com/bangumi/scripts/tree/master/yonjar#用户详情爬取)
 <!--bangumi/scripts END-->
 - [用颜色标注ep的讨论人气](http://bangumi.tv/group/topic/340530)
 - [bt search for bangumi](http://bangumi.tv/group/topic/311291) / [github](https://github.com/22earth/gm_scripts)
@@ -85,6 +87,7 @@ bangumi.tv 相关的坑
 - [Google custom search](https://cse.google.com/cse/home?cx=008561732579436191137:pumvqkbpt6w) / [bgm帖子](http://bangumi.tv/group/topic/6432)
 - [同步率匹配](http://bangumi.tv/group/topic/43737) / [代码](https://github.com/wattlebird/Chi)
 - [rank.bgm38.tk](http://bangumi.tv/group/topic/36036)
+- [班固米马赛克瓷砖](https://bgm.tv/group/topic/344198) / [代码](https://github.com/weizhenye/bangumi-mosaic-tile)
 
 ### 其他
 
