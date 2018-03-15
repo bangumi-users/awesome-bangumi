@@ -23,6 +23,7 @@ bangumi.tv 相关的坑
 | in touch(官方) | [bgm帖子](http://bangumi.tv/group/topic/8635) |
 | Bangumi Mobile (官方) | [bgm帖子](http://bangumi.tv/group/topic/5155) / [访问地址](http://bangumi.tv/m)
 | Ushio | [bgm帖子](http://bangumi.tv/group/topic/342887) / [代码](https://github.com/pye52/Ushio)
+| Bangumi iOS (超官方) | [bgm帖子](http://bangumi.tv/group/topic/345328)
 
 
 ### 用户脚本
@@ -71,9 +72,7 @@ bangumi.tv 相关的坑
     - [upsuper / 首页条目名中文化](https://github.com/bangumi/scripts/tree/master/upsuper#首页条目名中文化)
     - [yonjar / bangumi收藏列表显示Rank](https://github.com/bangumi/scripts/tree/master/yonjar#bangumi收藏列表显示rank)
     - [yonjar / bangumi评论统计](https://github.com/bangumi/scripts/tree/master/yonjar#bangumi评论统计)
-    - [yonjar / bgm角色数目统计](https://github.com/bangumi/scripts/tree/master/yonjar#bgm角色数目统计)
     - [yonjar / 好友动态&全站动态切换](https://github.com/bangumi/scripts/tree/master/yonjar#好友动态&全站动态切换)
-    - [yonjar / 用户详情爬取](https://github.com/bangumi/scripts/tree/master/yonjar#用户详情爬取)
 <!--bangumi/scripts END-->
 - [用颜色标注ep的讨论人气](http://bangumi.tv/group/topic/340530)
 - [bt search for bangumi](http://bangumi.tv/group/topic/311291) / [github](https://github.com/22earth/gm_scripts)
