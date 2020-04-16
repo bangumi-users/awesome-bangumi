@@ -4,9 +4,10 @@
 
 1. [Client](#client)
 2. [Website](#website)
-3. [Data](#data)
-4. [Bug fix](#bug-fix)
-5. [User Script](#user-script)
+3. [Api](#api)
+4. [Data](#data)
+5. [Bug fix](#bug-fix)
+6. [User Script](#user-script)
 -->
 
 ## Client
@@ -22,6 +23,10 @@
 - [多标签搜索](https://windrises.net/bgmtools/multitag/)
 - [班固米马赛克瓷砖](https://bgm.tv/group/topic/344198)
 - [Google custom search](https://cse.google.com/cse?cx=008561732579436191137:pumvqkbpt6w#gsc.tab=0)
+
+## Api
+
+- [官方API](https://github.com/bangumi/api)
 
 ## Data
 
