@@ -6,6 +6,7 @@
 2. [Website](#website)
 3. [Data](#data)
 4. [Bug fix](#bug-fix)
+5. [User Script](#user-script)
 -->
 
 ## Client
@@ -28,3 +29,7 @@
 ## Bug fix
 
 - [点格子上方的分类按钮生效](https://greasyfork.org/zh-CN/scripts/392858-bangumi-%E7%82%B9%E6%A0%BC%E5%AD%90%E4%B8%8A%E6%96%B9%E7%9A%84%E5%88%86%E7%B1%BB%E6%8C%89%E9%92%AE%E7%94%9F%E6%95%88)
+
+## User Script
+
+- [bangumi/scripts](https://github.com/bangumi/scripts)
