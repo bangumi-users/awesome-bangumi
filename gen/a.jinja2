@@ -1,0 +1,19 @@
+# Awesome Bangumi
+
+<!--## TOC
+
+{% for c in data.keys() -%}
+  {{ loop.index }}. [{{ c }}](#{{ c.lower().replace(' ', '-') }})
+{% endfor -%}-->
+{% for category, items in data.items() %}
+## {{ category }}
+{% for item in items %}
+- {% if item.name -%}
+  [{{item.name}}]({{item.url}})
+{%- else -%}
+  <{{item.url}}>
+{%- endif -%}
+{%- if item.description %} - {{ item.description }}
+{%- endif -%}
+{%- endfor %}
+{% endfor %}

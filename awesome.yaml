@@ -1,0 +1,38 @@
+items:
+  Client:
+    - name: czy0729/Bangumi
+      url: https://github.com/czy0729/Bangumi
+      description: 基于React Native的App，支持Android和iOS(TestFlight)
+
+    - name: ekibun/Bangumi
+      url: https://github.com/ekibun/Bangumi
+      description: 原生Android体验的bangumi客户端
+
+    - name: BangumiN
+      url: https://bangumin.app/
+      description: 一款功能丰富的Bangumi客户端
+
+    - name: Bangumi MX
+      url: http://bgmx.mysxl.cn/
+
+    - name: Bangumi UWP
+      url: https://bgm.tv/group/topic/349898
+      description: 使用 Bangumi API 开发的 WIN10 应用
+
+  Website:
+    - name: 多标签搜索
+      url: https://windrises.net/bgmtools/multitag/
+
+    - name: 班固米马赛克瓷砖
+      url: https://bgm.tv/group/topic/344198
+
+  Data:
+    - name: 班固米小组超级快照
+      url: https://bgm.tv/group/topic/355832
+
+  Bug fix:
+    - name: 点格子上方的分类按钮生效
+      url: https://greasyfork.org/zh-CN/scripts/392858-bangumi-%E7%82%B9%E6%A0%BC%E5%AD%90%E4%B8%8A%E6%96%B9%E7%9A%84%E5%88%86%E7%B1%BB%E6%8C%89%E9%92%AE%E7%94%9F%E6%95%88
+
+#  User Script:
+#    - name:
