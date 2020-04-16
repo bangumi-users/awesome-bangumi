@@ -21,6 +21,7 @@
 
 - [多标签搜索](https://windrises.net/bgmtools/multitag/)
 - [班固米马赛克瓷砖](https://bgm.tv/group/topic/344198)
+- [Google custom search](https://cse.google.com/cse?cx=008561732579436191137:pumvqkbpt6w#gsc.tab=0)
 
 ## Data
 
