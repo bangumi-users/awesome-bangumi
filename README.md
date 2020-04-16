@@ -4,7 +4,7 @@
 
 1. [Client](#client)
 2. [Website](#website)
-3. [Api](#api)
+3. [API](#api)
 4. [Data](#data)
 5. [Bug fix](#bug-fix)
 6. [User Script](#user-script)
@@ -24,9 +24,10 @@
 - [班固米马赛克瓷砖](https://bgm.tv/group/topic/344198)
 - [Google custom search](https://cse.google.com/cse?cx=008561732579436191137:pumvqkbpt6w#gsc.tab=0)
 
-## Api
+## API
 
 - [官方API](https://github.com/bangumi/api)
+- [几个bangumi相关的API](https://bgm.tv/group/topic/355388)
 
 ## Data
 

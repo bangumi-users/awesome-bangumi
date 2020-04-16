@@ -29,9 +29,12 @@ items:
     - name: Google custom search
       url: https://cse.google.com/cse?cx=008561732579436191137:pumvqkbpt6w#gsc.tab=0
 
-  Api:
+  API:
     - name: 官方API
       url: https://github.com/bangumi/api
+
+    - name: 几个bangumi相关的API
+      url: https://bgm.tv/group/topic/355388
 
   Data:
     - name: 班固米小组超级快照
