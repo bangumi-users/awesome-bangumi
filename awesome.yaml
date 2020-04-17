@@ -29,6 +29,10 @@ items:
     - name: Google custom search
       url: https://cse.google.com/cse?cx=008561732579436191137:pumvqkbpt6w#gsc.tab=0
 
+    - name: netabare
+      url: https://netaba.re/
+      description: 个人评分分布和全站评分历史
+
   API:
     - name: 官方API
       url: https://github.com/bangumi/api
