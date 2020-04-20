@@ -32,7 +32,7 @@ class Item(pydantic.BaseModel):
         url = self.repo_url
         if not url:
             return ""
-        return f"[![{self.name}](https://img.shields.io/github/last-commit{url.path})]({url})"
+        return f"[![{url.path[1:]}](https://img.shields.io/github/last-commit{url.path})]({url})"
 
 
 class Awesome(pydantic.BaseModel):
