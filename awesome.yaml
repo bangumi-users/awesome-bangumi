@@ -11,6 +11,7 @@ items:
     - name: BangumiN
       url: https://bangumin.app/
       description: 一款功能丰富的Bangumi客户端
+      repo: https://github.com/edwardez/BangumiN
 
     - name: Bangumi MX
       url: http://bgmx.mysxl.cn/
@@ -18,6 +19,7 @@ items:
     - name: Bangumi UWP
       url: https://bgm.tv/group/topic/349898
       description: 使用 Bangumi API 开发的 WIN10 应用
+      repo: https://github.com/Teachoc/Bangumi
 
   Website:
     - name: 多标签搜索
@@ -25,6 +27,7 @@ items:
 
     - name: 班固米马赛克瓷砖
       url: https://bgm.tv/group/topic/344198
+      repo: https://github.com/weizhenye/bangumi-mosaic-tile
 
     - name: Google custom search
       url: https://cse.google.com/cse?cx=008561732579436191137:pumvqkbpt6w#gsc.tab=0
@@ -39,6 +42,7 @@ items:
 
     - name: 几个bangumi相关的API
       url: https://bgm.tv/group/topic/355388
+      repo: https://github.com/Trim21/bgm38
 
   Data:
     - name: 班固米小组超级快照
