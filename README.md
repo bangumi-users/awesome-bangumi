@@ -21,14 +21,14 @@
 ## Website
 
 - [多标签搜索](https://windrises.net/bgmtools/multitag/)
-- [班固米马赛克瓷砖](https://bgm.tv/group/topic/344198)
+- [班固米马赛克瓷砖](https://bgm.tv/group/topic/344198) [![班固米马赛克瓷砖](https://img.shields.io/github/last-commit/weizhenye/bangumi-mosaic-tile)](https://github.com/weizhenye/bangumi-mosaic-tile)
 - [Google custom search](https://cse.google.com/cse?cx=008561732579436191137:pumvqkbpt6w#gsc.tab=0)
 - [netabare](https://netaba.re/) - 个人评分分布和全站评分历史
 
 ## API
 
-- [官方API](https://github.com/bangumi/api)
-- [几个bangumi相关的API](https://bgm.tv/group/topic/355388)
+- [官方API](https://github.com/bangumi/api) [![官方API](https://img.shields.io/github/last-commit/bangumi/api)](https://github.com/bangumi/api)
+- [几个bangumi相关的API](https://bgm.tv/group/topic/355388) [![几个bangumi相关的API](https://img.shields.io/github/last-commit/Trim21/bgm38)](https://github.com/Trim21/bgm38)
 
 ## Data
 
@@ -40,4 +40,4 @@
 
 ## User Script
 
-- [bangumi/scripts](https://github.com/bangumi/scripts)
+- [bangumi/scripts](https://github.com/bangumi/scripts) [![bangumi/scripts](https://img.shields.io/github/last-commit/bangumi/scripts)](https://github.com/bangumi/scripts)
