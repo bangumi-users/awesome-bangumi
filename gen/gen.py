@@ -3,6 +3,7 @@ from typing import Set, List, Dict, Optional
 import yaml
 import jinja2
 import pydantic
+from urllib.parse import urlencode
 
 category: Set[str] = set()
 with open("./gen/a.jinja2", encoding="utf8") as f:
@@ -32,7 +33,11 @@ class Item(pydantic.BaseModel):
         url = self.repo_url
         if not url:
             return ""
-        return f"[![{url.path[1:]}](https://img.shields.io/github/last-commit{url.path})]({url})"
+        img_url = f"https://img.shields.io/github/last-commit{url.path}"
+        if url.host == "github.com":
+            img_url = img_url + "?" + urlencode({"logo": "Github"})
+        slug = url.path[1:]
+        return f"[![{slug}]({img_url})]({url})"
 
 
 class Awesome(pydantic.BaseModel):
