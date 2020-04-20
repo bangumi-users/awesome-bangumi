@@ -1,13 +1,9 @@
-from typing import Set, List, Dict, Optional
+from typing import List, Dict, Optional
 
+import yarl
 import yaml
 import jinja2
 import pydantic
-from urllib.parse import urlencode
-
-category: Set[str] = set()
-with open("./gen/a.jinja2", encoding="utf8") as f:
-    template = jinja2.Template(f.read())
 
 
 class Image(pydantic.BaseModel):
@@ -20,22 +16,23 @@ class Item(pydantic.BaseModel):
     url: pydantic.AnyHttpUrl
     description: str = ""
     repo: Optional[pydantic.AnyHttpUrl]
+    scm_host = {"github.com": "Github"}
 
     @property
     def repo_url(self) -> Optional[pydantic.AnyHttpUrl]:
         if self.repo:
             return self.repo
-        if self.url.host == "github.com":
+        if self.url.host in self.scm_host:
             return self.url
 
     @property
-    def badge(self):
+    def badge(self) -> str:
         url = self.repo_url
         if not url:
             return ""
-        img_url = f"https://img.shields.io/github/last-commit{url.path}"
-        if url.host == "github.com":
-            img_url = img_url + "?" + urlencode({"logo": "Github"})
+        img_url = yarl.URL(f"https://img.shields.io/github/last-commit{url.path}")
+        if url.host in self.scm_host:
+            img_url = img_url.with_query({"logo": self.scm_host[url.host]})
         slug = url.path[1:]
         return f"[![{slug}]({img_url})]({url})"
 
@@ -43,6 +40,9 @@ class Item(pydantic.BaseModel):
 class Awesome(pydantic.BaseModel):
     items: Dict[str, List[Item]]
 
+
+with open("./gen/a.jinja2", encoding="utf8") as f:
+    template = jinja2.Template(f.read())
 
 with open("./awesome.yaml", encoding="utf") as f:
     raw_data = yaml.safe_load(f)
