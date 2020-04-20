@@ -13,7 +13,8 @@
 {%- else -%}
   <{{item.url}}>
 {%- endif -%}
-{%- if item.description %} - {{ item.description }} {% if item.badge %}{{ item.badge }}{% endif %}
+{%- if item.description %} - {{ item.description -}}
+{% if item.badge %} {{ item.badge }}{% endif %}
 {%- endif -%}
 {%- endfor %}
 {% endfor %}
