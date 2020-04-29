@@ -47,5 +47,4 @@ with open("./gen/a.jinja2", encoding="utf8") as f:
 with open("./awesome.yaml", encoding="utf") as f:
     raw_data = yaml.safe_load(f)
     data = Awesome.parse_obj(raw_data)
-    with open("./readme.md", "w", encoding="utf8") as f:
-        f.write(template.render(data=data.items))
+    print(template.render(data=data.items))
