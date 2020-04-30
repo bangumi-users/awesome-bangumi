@@ -2,9 +2,8 @@ name: ci
 
 on:
   push:
-    branches-ignore:
-      - gh-pages
-  pull_request:
+    branches:
+      - master
 
 jobs:
   deploy:
