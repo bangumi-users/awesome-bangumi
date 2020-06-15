@@ -8,6 +8,7 @@
 4. [Data](#data)
 5. [Bug fix](#bug-fix)
 6. [User Script](#user-script)
+7. [Others](#others)
 -->
 
 ## Client
@@ -41,4 +42,13 @@
 ## User Script
 
 - [bangumi/scripts](https://github.com/bangumi/scripts) [![bangumi/scripts](https://img.shields.io/github/last-commit/bangumi/scripts?logo=Github)](https://github.com/bangumi/scripts)
+
+## Others
+
+- [czy0729/Bangumi-Subject](https://github.com/czy0729/Bangumi-subject) - 条目快照 CDN [![czy0729/Bangumi-subject](https://img.shields.io/github/last-commit/czy0729/Bangumi-subject?logo=Github)](https://github.com/czy0729/Bangumi-subject)
+- [czy0729/Bangumi-OSS](https://www.jsdelivr.com/package/gh/czy0729/Bangumi-OSS) - 热门条目封面和活跃用户头像对象存储 CDN
+- [czy0729/Bangumi-Rakuen](https://github.com/czy0729/Bangumi-Rakuen) - 帖子快照 CDN [![czy0729/Bangumi-Rakuen](https://img.shields.io/github/last-commit/czy0729/Bangumi-Rakuen?logo=Github)](https://github.com/czy0729/Bangumi-Rakuen)
+- [czy0729/Bangumi-Mono](https://github.com/czy0729/Bangumi-Mono) - 人物快照 CDN [![czy0729/Bangumi-Mono](https://img.shields.io/github/last-commit/czy0729/Bangumi-Mono?logo=Github)](https://github.com/czy0729/Bangumi-Mono)
+- [ekibun/bangumi_onair](https://github.com/ekibun/bangumi_onair) - 时间表及单集播放数据源 [![ekibun/bangumi_onair](https://img.shields.io/github/last-commit/ekibun/bangumi_onair?logo=Github)](https://github.com/ekibun/bangumi_onair)
+- [bangumi-data](https://github.com/bangumi-data/bangumi-data) - 番组数据索引 [![bangumi-data/bangumi-data](https://img.shields.io/github/last-commit/bangumi-data/bangumi-data?logo=Github)](https://github.com/bangumi-data/bangumi-data)
 
