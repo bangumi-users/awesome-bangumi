@@ -72,7 +72,7 @@ class Awesome(pydantic.BaseModel):
     items: Dict[str, List[Item]]
 
 
-with open("./gen/a.jinja2", encoding="utf8") as f:
+with open("./gen/template.jinja2", encoding="utf8") as f:
     template = jinja2.Template(f.read())
 
 with open("./awesome.yaml", encoding="utf") as f:
