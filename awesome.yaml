@@ -60,23 +60,35 @@ items:
     - name: czy0729/Bangumi-Subject
       url: https://github.com/czy0729/Bangumi-subject
       description: 条目快照 CDN
+      badges:
+        - https://data.jsdelivr.com/v1/package/gh/czy0729/Bangumi-Subject/badge
 
     - name: czy0729/Bangumi-OSS
       url: https://www.jsdelivr.com/package/gh/czy0729/Bangumi-OSS
       description: 热门条目封面和活跃用户头像对象存储 CDN
+      badges:
+        - https://data.jsdelivr.com/v1/package/gh/czy0729/Bangumi-OSS/badge
 
     - name: czy0729/Bangumi-Rakuen
       url: https://github.com/czy0729/Bangumi-Rakuen
       description: 帖子快照 CDN
+      badges:
+        - https://data.jsdelivr.com/v1/package/gh/czy0729/Bangumi-Rakuen/badge
 
     - name: czy0729/Bangumi-Mono
       url: https://github.com/czy0729/Bangumi-Mono
       description: 人物快照 CDN
+      badges:
+        - https://data.jsdelivr.com/v1/package/gh/czy0729/Bangumi-Mono/badge
 
     - name: ekibun/bangumi_onair
       url: https://github.com/ekibun/bangumi_onair
       description: 时间表及单集播放数据源
+      badges:
+        - https://data.jsdelivr.com/v1/package/gh/ekibun/bangumi_onair/badge
 
     - name: bangumi-data
       url: https://github.com/bangumi-data/bangumi-data
       description: 番组数据索引
+      badges:
+        - https://data.jsdelivr.com/v1/package/npm/bangumi-data/badge

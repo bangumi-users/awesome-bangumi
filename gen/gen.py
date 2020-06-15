@@ -1,14 +1,38 @@
-from typing import List, Dict, Optional
+from typing import List, Dict, Optional, Union
 
 import yarl
 import yaml
 import jinja2
 import pydantic
 
+SCM_HOST = {"github.com": "Github"}
+
 
 class Image(pydantic.BaseModel):
-    description: str
-    url: str
+    image: pydantic.AnyHttpUrl
+    description: str = ""
+
+    def render(self):
+        return f"![{self.description}]({self.image})"
+
+
+class Badge(Image):
+    link: Optional[pydantic.AnyHttpUrl] = None
+
+    @classmethod
+    def from_repo(cls, url):
+        if not url:
+            raise ValueError(f"{url} is not a valid github repo url")
+        img_url = yarl.URL(f"https://img.shields.io/github/last-commit{url.path}")
+        if url.host in SCM_HOST:
+            img_url = img_url.with_query({"logo": SCM_HOST[url.host]})
+        slug = url.path[1:]
+        return cls.parse_obj({"description": slug, "image": str(img_url), "link": url})
+
+    def render(self):
+        if self.link:
+            return f"[{super().render()}]({self.link})"
+        return super().render()
 
 
 class Item(pydantic.BaseModel):
@@ -16,13 +40,13 @@ class Item(pydantic.BaseModel):
     url: pydantic.AnyHttpUrl
     description: str = ""
     repo: Optional[pydantic.AnyHttpUrl]
-    scm_host = {"github.com": "Github"}
+    badges: List[Union[pydantic.AnyHttpUrl, Badge]] = []
 
     @property
     def repo_url(self) -> Optional[pydantic.AnyHttpUrl]:
         if self.repo:
             return self.repo
-        if self.url.host in self.scm_host:
+        if self.url.host in SCM_HOST:
             return self.url
 
     @property
@@ -30,11 +54,18 @@ class Item(pydantic.BaseModel):
         url = self.repo_url
         if not url:
             return ""
-        img_url = yarl.URL(f"https://img.shields.io/github/last-commit{url.path}")
-        if url.host in self.scm_host:
-            img_url = img_url.with_query({"logo": self.scm_host[url.host]})
-        slug = url.path[1:]
-        return f"[![{slug}]({img_url})]({url})"
+        return Badge.from_repo(self.repo_url).render()
+
+    def get_badges(self):
+        c = []
+        if self.repo_url:
+            c.append(Badge.from_repo(self.repo_url))
+        for badge in self.badges:
+            if isinstance(badge, str):
+                c.append(Badge(image=badge))
+            else:
+                c.append(badge)
+        return c
 
 
 class Awesome(pydantic.BaseModel):

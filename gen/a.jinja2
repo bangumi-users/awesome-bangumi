@@ -15,6 +15,6 @@
 {%- endif -%}
 {%- if item.description %} - {{ item.description -}}
 {%- endif -%}
-{% if item.repo_url %} {{ item.badge }}{% endif %}
+{% for badge in item.get_badges() %} {{ badge.render() }} {% endfor %}
 {%- endfor %}
 {% endfor %}
