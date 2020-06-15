@@ -14,38 +14,9 @@ jobs:
         with:
           python-version: '3.7'
 
-      - name: Get Latest tools version
-        id: get-version
-        run: |
-          PY=$(python --version)
-          echo "::set-output name=poetry::$(curl -sSl https://pypi.org/pypi/poetry/json | jq .info.version -r)"
-          echo "::set-output name=python::${PY// /_}"
+      - uses: Trim21/setup-poetry@v1
 
-          echo "::add-path::$HOME/.poetry/bin"
-
-      - uses: actions/cache@v1
-        name: Cache Poetry
-        with:
-          path: ~/.poetry
-          key: poetry-itself-${{ steps.get-version.outputs.poetry }}
-
-      - name: Install Poetry
-        run: |
-          poetry --version && exit 0
-          curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | \
-            python - --version ${{ steps.get-version.outputs.poetry }}
-
-      - uses: actions/cache@v1
-        name: Cache Python Packages
-        with:
-          path: ~/.local
-          key: poetry-${{ steps.get-version.outputs.python }}-${{ hashFiles('**/poetry.lock') }}
-          restore-keys: |
-            poetry-${{ steps.get-version.outputs.python }}-
-
-      - name: Install Dependencies
-        working-directory: ./gen
-        run: pip install --user --no-deps -r <(poetry export -f requirements.txt --dev)
+      - uses: Trim21/install-poetry-project@v1
 
       - name: Generate Readme
         run: |
