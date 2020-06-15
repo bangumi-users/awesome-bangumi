@@ -58,13 +58,13 @@ class Item(pydantic.BaseModel):
 
     def get_badges(self):
         c = []
-        if self.repo_url:
-            c.append(Badge.from_repo(self.repo_url))
         for badge in self.badges:
             if isinstance(badge, str):
                 c.append(Badge(image=badge))
             else:
                 c.append(badge)
+        if self.repo_url:
+            c.append(Badge.from_repo(self.repo_url))
         return c
 
 
