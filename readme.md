@@ -1,6 +1,6 @@
 # Awesome Bangumi
 
-<!--## TOC
+## TOC
 
 1. [Client](#client)
 2. [Website](#website)
@@ -9,7 +9,6 @@
 5. [Bug fix](#bug-fix)
 6. [User Script](#user-script)
 7. [Others](#others)
--->
 
 ## Client
 
