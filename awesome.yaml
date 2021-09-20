@@ -40,9 +40,6 @@ items:
     - name: 官方API
       url: https://github.com/bangumi/api
 
-    - name: 几个bangumi相关的API
-      url: https://bgm.tv/group/topic/355388
-      repo: https://github.com/Trim21/bgm38
 
   Data:
     - name: 班固米小组超级快照
