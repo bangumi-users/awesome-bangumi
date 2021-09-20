@@ -1,6 +1,6 @@
 # Awesome Bangumi
 
-## TOC
+<!--## TOC
 
 1. [Client](#client)
 2. [Website](#website)
@@ -9,6 +9,7 @@
 5. [Bug fix](#bug-fix)
 6. [User Script](#user-script)
 7. [Others](#others)
+-->
 
 ## Client
 
@@ -28,7 +29,6 @@
 ## API
 
 - [官方API](https://github.com/bangumi/api) [![bangumi/api](https://img.shields.io/github/last-commit/bangumi/api?logo=Github)](https://github.com/bangumi/api) 
-- [几个bangumi相关的API](https://bgm.tv/group/topic/355388) [![Trim21/bgm38](https://img.shields.io/github/last-commit/Trim21/bgm38?logo=Github)](https://github.com/Trim21/bgm38) 
 
 ## Data
 
@@ -48,6 +48,6 @@
 - [czy0729/Bangumi-OSS](https://www.jsdelivr.com/package/gh/czy0729/Bangumi-OSS) - 热门条目封面和活跃用户头像对象存储 CDN ![](https://data.jsdelivr.com/v1/package/gh/czy0729/Bangumi-OSS/badge) 
 - [czy0729/Bangumi-Rakuen](https://github.com/czy0729/Bangumi-Rakuen) - 帖子快照 CDN ![](https://data.jsdelivr.com/v1/package/gh/czy0729/Bangumi-Rakuen/badge)  [![czy0729/Bangumi-Rakuen](https://img.shields.io/github/last-commit/czy0729/Bangumi-Rakuen?logo=Github)](https://github.com/czy0729/Bangumi-Rakuen) 
 - [czy0729/Bangumi-Mono](https://github.com/czy0729/Bangumi-Mono) - 人物快照 CDN ![](https://data.jsdelivr.com/v1/package/gh/czy0729/Bangumi-Mono/badge)  [![czy0729/Bangumi-Mono](https://img.shields.io/github/last-commit/czy0729/Bangumi-Mono?logo=Github)](https://github.com/czy0729/Bangumi-Mono) 
-- [ekibun/bangumi_onair](https://github.com/ekibun/bangumi_onair) - 时间表及单集播放数据源 ![](https://data.jsdelivr.com/v1/package/gh/ekibun/bangumi_onair/badge)  [![ekibun/bangumi_onair](https://img.shields.io/github/last-commit/ekibun/bangumi_onair?logo=Github)](https://github.com/ekibun/bangumi_onair) 
+- [ekibot/bangumi-onair](https://github.com/ekibot/bangumi-onair) - 时间表及单集播放数据源 ![](https://data.jsdelivr.com/v1/package/gh/ekibot/bangumi-onair/badge)  [![ekibot/bangumi-onair](https://img.shields.io/github/last-commit/ekibot/bangumi-onair?logo=Github)](https://github.com/ekibot/bangumi-onair) 
 - [bangumi-data](https://github.com/bangumi-data/bangumi-data) - 番组数据索引 ![](https://data.jsdelivr.com/v1/package/npm/bangumi-data/badge)  [![bangumi-data/bangumi-data](https://img.shields.io/github/last-commit/bangumi-data/bangumi-data?logo=Github)](https://github.com/bangumi-data/bangumi-data) 
 
