@@ -78,11 +78,11 @@ items:
       badges:
         - https://data.jsdelivr.com/v1/package/gh/czy0729/Bangumi-Mono/badge
 
-    - name: ekibun/bangumi_onair
-      url: https://github.com/ekibun/bangumi_onair
+    - name: ekibot/bangumi-onair
+      url: https://github.com/ekibot/bangumi-onair
       description: 时间表及单集播放数据源
       badges:
-        - https://data.jsdelivr.com/v1/package/gh/ekibun/bangumi_onair/badge
+        - https://data.jsdelivr.com/v1/package/gh/ekibot/bangumi-onair/badge
 
     - name: bangumi-data
       url: https://github.com/bangumi-data/bangumi-data
