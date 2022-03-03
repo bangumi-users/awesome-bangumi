@@ -40,7 +40,10 @@
 
 ## User Script
 
-- [bangumi/scripts](https://github.com/bangumi/scripts) [![bangumi/scripts](https://img.shields.io/github/last-commit/bangumi/scripts?logo=Github)](https://github.com/bangumi/scripts) 
+- [bangumi/scripts](https://github.com/bangumi/scripts) [![bangumi/scripts](https://img.shields.io/github/last-commit/bangumi/scripts?logo=Github)](https://github.com/bangumi/scripts)
+
+## Utilities
+- [Bangumi Takeout](https://github.com/jerrylususu/bangumi-takeout-py) - 从 Bangumi 导出自己的标注记录 [![jerrylususu/bangumi-takeout-py](https://img.shields.io/github/last-commit/jerrylususu/bangumi-takeout-py?logo=Github)]
 
 ## Others
 
