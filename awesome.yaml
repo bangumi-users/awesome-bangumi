@@ -52,6 +52,12 @@ items:
   User Script:
     - name: bangumi/scripts
       url: https://github.com/bangumi/scripts
+  
+  Utility:
+    - name: Bangumi Takeout
+      url: https://bgm.tv/group/topic/367988
+      repo: https://github.com/jerrylususu/bangumi-takeout-py
+      description: 从 Bangumi 导出自己的标注记录
 
   Others:
     - name: czy0729/Bangumi-Subject
