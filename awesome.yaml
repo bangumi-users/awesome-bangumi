@@ -9,7 +9,7 @@ items:
       description: 原生Android体验的bangumi客户端
 
     - name: BangumiN
-      url: https://bangumin.app/
+      url: https://bangumin.github.io/
       description: 一款功能丰富的Bangumi客户端
       repo: https://github.com/edwardez/BangumiN
 
