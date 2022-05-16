@@ -16,7 +16,7 @@
 
 - [czy0729/Bangumi](https://github.com/czy0729/Bangumi) - 基于React Native的App，支持Android和iOS(TestFlight) [![czy0729/Bangumi](https://img.shields.io/github/last-commit/czy0729/Bangumi?logo=Github)](https://github.com/czy0729/Bangumi) 
 - [ekibun/Bangumi](https://github.com/ekibun/Bangumi) - 原生Android体验的bangumi客户端 [![ekibun/Bangumi](https://img.shields.io/github/last-commit/ekibun/Bangumi?logo=Github)](https://github.com/ekibun/Bangumi) 
-- [BangumiN](https://bangumin.app/) - 一款功能丰富的Bangumi客户端 [![edwardez/BangumiN](https://img.shields.io/github/last-commit/edwardez/BangumiN?logo=Github)](https://github.com/edwardez/BangumiN) 
+- [BangumiN](https://bangumin.github.io/) - 一款功能丰富的Bangumi客户端 [![edwardez/BangumiN](https://img.shields.io/github/last-commit/edwardez/BangumiN?logo=Github)](https://github.com/edwardez/BangumiN) 
 - [Bangumi MX](http://bgmx.mysxl.cn/)
 - [Bangumi UWP](https://bgm.tv/group/topic/349898) - 使用 Bangumi API 开发的 WIN10 应用 [![Teachoc/Bangumi](https://img.shields.io/github/last-commit/Teachoc/Bangumi?logo=Github)](https://github.com/Teachoc/Bangumi) 
 
