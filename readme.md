@@ -21,7 +21,7 @@
 - [Bangumi UWP](https://bgm.tv/group/topic/349898) - 使用 Bangumi API 开发的 WIN10 应用 [![Teachoc/Bangumi](https://img.shields.io/github/last-commit/Teachoc/Bangumi?logo=Github)](https://github.com/Teachoc/Bangumi) 
 
 ## Website
-
+- [科学排名](https://chii.ai/)
 - [多标签搜索](https://windrises.net/bgmtools/multitag/)
 - [班固米马赛克瓷砖](https://bgm.tv/group/topic/344198) [![weizhenye/bangumi-mosaic-tile](https://img.shields.io/github/last-commit/weizhenye/bangumi-mosaic-tile?logo=Github)](https://github.com/weizhenye/bangumi-mosaic-tile) 
 - [Google custom search](https://cse.google.com/cse?cx=008561732579436191137:pumvqkbpt6w#gsc.tab=0)
