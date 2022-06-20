@@ -22,6 +22,9 @@ items:
       repo: https://github.com/Teachoc/Bangumi
 
   Website:
+    - name: Bangumi科学动画排名
+      url: https://chii.ai/
+
     - name: 多标签搜索
       url: https://windrises.net/bgmtools/multitag/
 
