@@ -6,10 +6,11 @@
 2. [Website](#website)
 3. [API](#api)
 4. [Data](#data)
-5. [Bug fix](#bug-fix)
-6. [User Script](#user-script)
-7. [Utility](#utility)
-8. [Others](#others)
+5. [Calibre-Web](#calibre-web)
+6. [Bug fix](#bug-fix)
+7. [User Script](#user-script)
+8. [Utility](#utility)
+9. [Others](#others)
 -->
 
 ## Client
@@ -35,6 +36,10 @@
 ## Data
 
 - [班固米小组超级快照](https://bgm.tv/group/topic/355832)
+
+## Calibre-Web
+
+- [Calibre-web 班固米元数据插件](https://github.com/JeffersonQin/calibre-web-bgm) [![JeffersonQin/calibre-web-bgm](https://img.shields.io/github/last-commit/JeffersonQin/calibre-web-bgm?logo=Github)](https://github.com/JeffersonQin/calibre-web-bgm) 
 
 ## Bug fix
 
