@@ -48,6 +48,10 @@ items:
     - name: 班固米小组超级快照
       url: https://bgm.tv/group/topic/355832
 
+  Calibre-Web:
+    - name: Calibre-web 班固米元数据插件
+      url: https://github.com/JeffersonQin/calibre-web-bgm
+
   Bug fix:
     - name: 点格子上方的分类按钮生效
       url: https://greasyfork.org/zh-CN/scripts/392858-bangumi-%E7%82%B9%E6%A0%BC%E5%AD%90%E4%B8%8A%E6%96%B9%E7%9A%84%E5%88%86%E7%B1%BB%E6%8C%89%E9%92%AE%E7%94%9F%E6%95%88
